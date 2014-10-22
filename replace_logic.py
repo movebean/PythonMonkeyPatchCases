@@ -6,7 +6,7 @@ print b
 print b is True
 print b is False
 
-if 2 > 3:
+if b is True
   print '2 > 3'
 else:
   print '2 < 3'
